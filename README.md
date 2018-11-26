@@ -1,0 +1,2 @@
+# kurs
+Na potrzeby kursu
